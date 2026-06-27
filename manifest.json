@@ -8,6 +8,7 @@
     "contentFolders": ["content"],
     "frameworkVersion": "2.33.34",
     "thumbs": ["ConsoleCmd OnlineResources_Disable 1"],
+    "updateCheck": "https://raw.githubusercontent.com/Archer-0-1/reusable-keycard-plus-multitool/main/updates.json",
     "localisationOverrides": {
 		"008322D98E1CFE04": {
 			"english": {
