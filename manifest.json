@@ -1,14 +1,14 @@
 {
     "$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-    "version": "1.2.3",
+    "version": "1.3.0",
     "id": "LeadingTiger9.ReusableKeyCard",
     "name": "Reusable Key Card",
-    "description": "A simple mod designed to make the Electronic Key Hacker Mk III Reusable. Renamed to Reusable Key Card. Also works in Freelancer, with an option of using the collector's lockpick as well.",
+    "description": "A simple mod designed to make the Electronic Key Hacker Mk III Reusable. Renamed to Reusable Key Card. Also works in Freelancer.",
     "authors": ["LeadingTiger9"],
     "contentFolders": ["content"],
-    "frameworkVersion": "2.33.34",
+    "frameworkVersion": "2.33.40",
     "thumbs": ["ConsoleCmd OnlineResources_Disable 1"],
-    "updateCheck": "https://raw.githubusercontent.com/Archer-0-1/reusable-keycard-plus-multitool/main/updates.json",
+    "updateCheck": "https://raw.githubusercontent.com/Archer-0-1/reusable-keycard/main/updates.json",
     "localisationOverrides": {
 		"008322D98E1CFE04": {
 			"english": {
